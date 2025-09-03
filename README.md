@@ -24,7 +24,7 @@ A Flutter application for monitoring soil health through Bluetooth-connected sen
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/Kartikey03/Soiler.git
    cd soil_health_monitoring
    ```
 
