@@ -142,24 +142,15 @@ The current implementation uses mock data for testing. To integrate with real ha
 3. Handle connection stability and error recovery
 4. Add device-specific configuration if needed
 
-## Future Enhancements
-
-- **Offline Caching**: Store last readings locally
-- **Push Notifications**: Alert users of critical soil conditions
-- **Data Export**: Allow CSV/PDF export of historical data
-- **Multiple Sensors**: Support for multiple connected devices
-- **Advanced Analytics**: Soil health trends and recommendations
-- **Real-time Dashboard**: Live updating charts and gauges
-
 ## Dependencies
 
 - `provider: ^6.1.1` - State management
 - `firebase_core: ^2.24.2` - Firebase core functionality
 - `firebase_auth: ^4.15.3` - Authentication
 - `cloud_firestore: ^4.13.6` - Database
-- `flutter_bluetooth_serial: ^0.4.0` - Bluetooth connectivity
+- `flutter_blue_plus: ^1.35.5` - Bluetooth connectivity
 - `permission_handler: ^11.0.1` - Runtime permissions
-- `fl_chart: ^0.65.0` - Data visualization
+- `syncfusion_flutter_charts: ^30.2.7` - Data visualization
 - `intl: ^0.18.1` - Date formatting
 
 ## License
