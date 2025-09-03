@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1048742170620",
+    "project_id": "soiler-891b6",
+    "storage_bucket": "soiler-891b6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1048742170620:android:211670a527faabbf0cec79",
+        "android_client_info": {
+          "package_name": "com.example.soiler"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAh4hV7pENC0jMeAl5TTLN1_8O-WVCvWnE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
